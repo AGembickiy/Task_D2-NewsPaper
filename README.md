@@ -1,5 +1,7 @@
 # Task_D2-NewsPaper
 Скачиваем репозиторий
+Создаем вертуальное окружение
+pip install -r requirements 
 Выполняем команды 
 python manage.py makemigrations
 python manage.py migrate
